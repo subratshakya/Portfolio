@@ -92,7 +92,7 @@ const Hero: React.FC<HeroProps> = ({ darkMode }) => {
                 SS
               </div>
               <img 
-                src="images\Screenshot_2025-04-08-12-06-50-71_99c04817c0de5652397fc8b56c3b3817.jpg" 
+                src="public\images\Screenshot_2025-04-08-12-06-50-71_99c04817c0de5652397fc8b56c3b3817.jpg" 
                 alt="Subrat Shakya" 
                 className="absolute inset-0 w-full h-full object-cover opacity-0 hover:opacity-100 transition-opacity duration-300"
               />
